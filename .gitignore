@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+reports/screenshots/
+.env
+.env.*
+!.env.example
+.github-auth/

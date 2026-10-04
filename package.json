@@ -1,0 +1,22 @@
+{
+  "name": "duck-revenge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader native --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build --configLoader native",
+    "build:pages": "npm run build && node scripts/prepare-pages.mjs",
+    "preview": "vite preview --configLoader native --host 127.0.0.1",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "test:browser": "node tests/browser.mjs",
+    "test:performance": "node tests/performance.mjs",
+    "start": "node serve.mjs"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "playwright": "1.62.1"
+  },
+  "engines": { "node": ">=24.0.0" }
+}

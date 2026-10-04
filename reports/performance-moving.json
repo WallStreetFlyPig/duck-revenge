@@ -1,0 +1,62 @@
+[
+  {
+    "browser": "Chrome",
+    "version": "154.0.8037.95",
+    "width": 1280,
+    "height": 720,
+    "meanFPS": 60,
+    "p95FrameMs": 16.7,
+    "minChase": 9,
+    "minFollowers": 5,
+    "endPlayer": {
+      "x": 1890.1384505738708,
+      "y": 729.8879377296894
+    },
+    "frames": 300
+  },
+  {
+    "browser": "Chrome",
+    "version": "154.0.8037.95",
+    "width": 1920,
+    "height": 1080,
+    "meanFPS": 60,
+    "p95FrameMs": 16.8,
+    "minChase": 9,
+    "minFollowers": 5,
+    "endPlayer": {
+      "x": 1885.218060896877,
+      "y": 733.8063905868153
+    },
+    "frames": 300
+  },
+  {
+    "browser": "Edge",
+    "version": "154.0.4258.53",
+    "width": 1280,
+    "height": 720,
+    "meanFPS": 60,
+    "p95FrameMs": 16.7,
+    "minChase": 9,
+    "minFollowers": 5,
+    "endPlayer": {
+      "x": 1885.2609367309753,
+      "y": 733.8098332005765
+    },
+    "frames": 300
+  },
+  {
+    "browser": "Edge",
+    "version": "154.0.4258.53",
+    "width": 1920,
+    "height": 1080,
+    "meanFPS": 60,
+    "p95FrameMs": 16.8,
+    "minChase": 9,
+    "minFollowers": 5,
+    "endPlayer": {
+      "x": 1882.9504535054714,
+      "y": 735.7931376047802
+    },
+    "frames": 300
+  }
+]

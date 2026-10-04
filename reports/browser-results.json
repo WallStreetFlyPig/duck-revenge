@@ -1,0 +1,74 @@
+[
+  {
+    "browser": "Chrome",
+    "version": "154.0.8037.95",
+    "keyboardHeist": true,
+    "pause": true,
+    "blur": true,
+    "resize": true,
+    "settings": true,
+    "tenRestarts": true,
+    "lossScreen": true,
+    "winScreen": true,
+    "records": true,
+    "storageAndAudioUnavailable": true,
+    "errors": [],
+    "outbound": [],
+    "perf": [
+      {
+        "width": 1280,
+        "height": 720,
+        "frames": 300,
+        "meanFPS": 60,
+        "p95FrameMs": 16.7,
+        "chasers": 9,
+        "followers": 5
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "frames": 301,
+        "meanFPS": 60,
+        "p95FrameMs": 16.7,
+        "chasers": 9,
+        "followers": 5
+      }
+    ]
+  },
+  {
+    "browser": "Edge",
+    "version": "154.0.4258.53",
+    "keyboardHeist": true,
+    "pause": true,
+    "blur": true,
+    "resize": true,
+    "settings": true,
+    "tenRestarts": true,
+    "lossScreen": true,
+    "winScreen": true,
+    "records": true,
+    "storageAndAudioUnavailable": true,
+    "errors": [],
+    "outbound": [],
+    "perf": [
+      {
+        "width": 1280,
+        "height": 720,
+        "frames": 300,
+        "meanFPS": 60,
+        "p95FrameMs": 16.7,
+        "chasers": 9,
+        "followers": 5
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "frames": 301,
+        "meanFPS": 60,
+        "p95FrameMs": 16.7,
+        "chasers": 9,
+        "followers": 5
+      }
+    ]
+  }
+]
