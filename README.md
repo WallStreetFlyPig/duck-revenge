@@ -2,6 +2,8 @@
 
 > 昨天，他们把你赶出了喷泉。今天，你带了朋友。
 
+**[在线游玩：一只鸭子的复仇](https://wallstreetflypig.github.io/duck-revenge/)** · [GitHub 源码](https://github.com/WallStreetFlyPig/duck-revenge)
+
 简体中文 · 电脑键盘 · 2D 俯视角 · TypeScript + Vite + Canvas 2D。
 
 ![游戏预览](media/preview.png)
